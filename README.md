@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import shift from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-shift@deno/mod.js';
+import shift from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-shift@v0.1.0-deno/mod.js';
 ```
 
 #### shift( x\[, options] )
@@ -142,7 +142,7 @@ arr = ndarray2array( y[ 1 ] );
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zero-to@deno/mod.js';
-import shift from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-shift@deno/mod.js';
+import shift from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-shift@v0.1.0-deno/mod.js';
 
 // Create an ndarray:
 var x = array( zeroTo( 27 ), {
