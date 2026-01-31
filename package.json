@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-shift",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return an array containing a read-only truncated view of an input ndarray and a read-only view of the first element(s) along a specified dimension.",
   "license": "Apache-2.0",
   "author": {
