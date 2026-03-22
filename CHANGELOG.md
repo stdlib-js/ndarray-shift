@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-22)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`dd9e9c9`](https://github.com/stdlib-js/stdlib/commit/dd9e9c96f105f5abd240a575545ea6ba1a3e204c) - **bench:** refactor to use string interpolation in `ndarray/shift` [(#11073)](https://github.com/stdlib-js/stdlib/pull/11073) _(by Partha Das)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Partha Das
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
