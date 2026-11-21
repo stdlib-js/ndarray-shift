@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-05)
+## Unreleased (2026-11-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`dd9e9c9`](https://github.com/stdlib-js/stdlib/commit/dd9e9c96f105f5abd240a575545ea6ba1a3e204c) - **bench:** refactor to use string interpolation in `ndarray/shift` [(#11073)](https://github.com/stdlib-js/stdlib/pull/11073) _(by Partha Das)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Partha Das
+-   Philipp Burckhardt
 
 </section>
 
